@@ -1,11 +1,8 @@
 *.py[cod]
 common.pyc
-data_europe_test_values.png 
-data_europe_test_values.svg 
-data_europe_test_values_legend.png 
-data_italy_test_values.png 
-data_italy_test_values.svg 
-data_italy_test_values_legend.png 
-data_world_test_values.png
+*.png
+*_legend.png
+data_italy_test_values.svg
+data_europe_test_values.svg
 data_world_test_values.svg
-data_world_test_values_legend.png
+
